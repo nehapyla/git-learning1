@@ -178,7 +178,7 @@ Working Directory
 
 ### Git Status
 
-command-images/git-status.png
+![Git Init](command-images/git-status.png)
 
 ---
 
