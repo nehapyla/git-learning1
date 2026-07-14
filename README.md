@@ -1,5 +1,3 @@
-# 📘 Day 1 - Git Practice Assignment
-
 ## 📌 Objective
 
 The goal of this assignment was to understand and practice the fundamental Git operations that are used in day-to-day software development and DevOps workflows.
@@ -99,12 +97,12 @@ Verified that:
 
 ---
 
-## 7. Created a Feature Branch
+## 7. Created a New Branch
 
 Created a new branch:
 
 ```text
-feature-docker
+new-branch
 ```
 
 Performed the following:
@@ -170,9 +168,15 @@ Working Directory
 
 > Add your screenshots in the order below.
 
-### Repository Initialization
+### Git Add
 
-> *(Insert Screenshot)*
+![Git Init](command-images/git-add.png)
+
+---
+
+### Git Commit
+
+![Git Init](command-images/git-commit.png)
 
 ---
 
@@ -182,57 +186,41 @@ Working Directory
 
 ---
 
-### First Commit
-
-> *(Insert Screenshot)*
-
----
-
 ### Git Log
 
-> *(Insert Screenshot)*
-
----
-
-### Remote Repository
-
-> *(Insert Screenshot)*
+![Git Init](command-images/git-log.png)
 
 ---
 
 ### Push to GitHub
 
-> *(Insert Screenshot)*
+![Git Init](command-images/git-push.png)
+![Git Init](command-images/push1.png)
+![Git Init](command-images/push2.png)
 
 ---
 
 ### Clone Repository
 
-> *(Insert Screenshot)*
+![Git Init](command-images/git-clone.png)
 
 ---
 
-### Feature Branch Creation
+### Branch Creation
 
-> *(Insert Screenshot)*
-
----
-
-### Branch Push
-
-> *(Insert Screenshot)*
+![Git Init](command-images/git-branch.png)
 
 ---
 
 ### Pull Latest Changes
 
-> *(Insert Screenshot)*
+![Git Init](command-images/git-pull.png)
 
 ---
 
 # 🎯 Learning Outcome
 
-By completing this assignment, I gained hands-on experience with Git fundamentals, including repository management, staging, committing, cloning, branching, and synchronizing changes between local and remote repositories. This practice strengthened my understanding of the Git workflow used in real-world development and DevOps environments.
+I gained hands-on experience with Git fundamentals, including repository management, staging, committing, cloning, branching, and synchronizing changes between local and remote repositories. This practice strengthened my understanding of the Git workflow used in real-world development and DevOps environments.
 
 ---
 
